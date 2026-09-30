@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Chimney Duct Pipe -->
+  <rect x="40" y="8" width="20" height="34" rx="2" fill="#f1f5f9" stroke="#1e3a5f" stroke-width="2.5"/>
+  <!-- Pipe joints -->
+  <line x1="40" y1="20" x2="60" y2="20" stroke="#cbd5e1" stroke-width="2"/>
+  <line x1="40" y1="32" x2="60" y2="32" stroke="#cbd5e1" stroke-width="2"/>
+  <!-- Chimney Canopy Hood (Trapezoid) -->
+  <polygon points="20,68 80,68 62,42 38,42" fill="#ffffff" stroke="#1e3a5f" stroke-width="3"/>
+  <!-- Chimney Base Panel -->
+  <rect x="14" y="68" width="72" height="14" rx="3" fill="#f8fafc" stroke="#1e3a5f" stroke-width="2.5"/>
+  <!-- Touch controls / Light -->
+  <circle cx="26" cy="75" r="2.5" fill="#d95300"/>
+  <line x1="36" y1="75" x2="42" y2="75" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="46" y1="75" x2="52" y2="75" stroke="#94a3b8" stroke-width="2"/>
+  <!-- Baffle Filters Underneath -->
+  <line x1="28" y1="82" x2="28" y2="88" stroke="#64748b" stroke-width="2"/>
+  <line x1="42" y1="82" x2="42" y2="88" stroke="#64748b" stroke-width="2"/>
+  <line x1="58" y1="82" x2="58" y2="88" stroke="#64748b" stroke-width="2"/>
+  <line x1="72" y1="82" x2="72" y2="88" stroke="#64748b" stroke-width="2"/>
+  <!-- LED Spotlights -->
+  <circle cx="74" cy="75" r="3" fill="#fef08a" stroke="#eab308"/>
+</svg>

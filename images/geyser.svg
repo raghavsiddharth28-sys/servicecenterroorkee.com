@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Geyser Water Tank Body (Rounded cylinder) -->
+  <rect x="25" y="10" width="50" height="70" rx="20" fill="#f8fafc" stroke="#1e3a5f" stroke-width="3"/>
+  <!-- Front Brand Accent Panel -->
+  <path d="M30 25 C30 20, 70 20, 70 25 L70 50 C70 55, 30 55, 30 50 Z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Temperature Indicator / Gauge -->
+  <circle cx="50" cy="36" r="10" fill="#f1f5f9" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M46 36 L50 30 L54 36" stroke="#d95300" stroke-width="2" fill="none"/>
+  <!-- Power & Heating LEDs -->
+  <circle cx="44" cy="58" r="2.5" fill="#22c55e"/> <!-- Green Power -->
+  <circle cx="56" cy="58" r="2.5" fill="#ef4444"/> <!-- Red Heating -->
+  <!-- Thermostat Dial at bottom -->
+  <circle cx="50" cy="68" r="5" fill="#e2e8f0" stroke="#1e3a5f" stroke-width="1.5"/>
+  <!-- Inlet Pipe (Blue cold) -->
+  <rect x="34" y="80" width="8" height="15" rx="2" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <!-- Outlet Pipe (Red hot) -->
+  <rect x="58" y="80" width="8" height="15" rx="2" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+  <!-- Water Drops -->
+  <path d="M38 74 Q38 71 36 71 Q34 71 34 74 Q34 76 36 76 Q38 76 38 74 Z" fill="#3b82f6" stroke="none"/>
+  <path d="M62 74 Q62 71 60 71 Q58 71 58 74 Q58 76 60 76 Q62 76 62 74 Z" fill="#ef4444" stroke="none"/>
+</svg>

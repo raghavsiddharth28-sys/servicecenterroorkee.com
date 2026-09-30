@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Washing Machine Body -->
+  <rect x="18" y="10" width="64" height="80" rx="8" fill="#f8fafc" stroke="#1e3a5f" stroke-width="3"/>
+  <!-- Control Panel Line -->
+  <line x1="18" y1="28" x2="82" y2="28" stroke="#cbd5e1" stroke-width="2"/>
+  <!-- Dial & Buttons -->
+  <circle cx="32" cy="19" r="4.5" fill="#1a56db" stroke="#1a56db"/>
+  <circle cx="46" cy="19" r="2.5" fill="#94a3b8" stroke="#94a3b8"/>
+  <circle cx="54" cy="19" r="2.5" fill="#94a3b8" stroke="#94a3b8"/>
+  <!-- Digital Indicator Display -->
+  <rect x="64" y="15" width="12" height="8" rx="2" fill="#dbeafe" stroke="#3b82f6"/>
+  <!-- Door Outer Ring -->
+  <circle cx="50" cy="58" r="22" fill="#ffffff" stroke="#1e3a5f" stroke-width="3"/>
+  <!-- Door Inner Ring / Glass Drum -->
+  <circle cx="50" cy="58" r="16" fill="#e0f2fe" stroke="#38bdf8" stroke-width="2"/>
+  <!-- Drum Texture / Water Wave -->
+  <path d="M42 62 C46 59, 54 65, 58 62" stroke="#0284c7" stroke-width="2.5" fill="none"/>
+  <!-- Door Handle -->
+  <circle cx="68" cy="58" r="2" fill="#d95300"/>
+  <!-- Base Stand Feet -->
+  <rect x="24" y="90" width="8" height="4" rx="1" fill="#64748b"/>
+  <rect x="68" y="90" width="8" height="4" rx="1" fill="#64748b"/>
+</svg>

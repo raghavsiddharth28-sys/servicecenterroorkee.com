@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Microwave Outer Cabinet -->
+  <rect x="12" y="20" width="76" height="60" rx="8" fill="#f8fafc" stroke="#1e3a5f" stroke-width="3"/>
+  <!-- Glass Window Screen -->
+  <rect x="18" y="28" width="46" height="44" rx="4" fill="#ffffff" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- Turntable Plate inside -->
+  <ellipse cx="41" cy="56" rx="16" ry="6" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+  <!-- Microwave Heat Waves -->
+  <path d="M36 44 C38 42, 40 46, 42 44" stroke="#d95300" stroke-width="1.5"/>
+  <path d="M42 40 C44 38, 46 42, 48 40" stroke="#d95300" stroke-width="1.5"/>
+  <!-- Control Panel Divider -->
+  <line x1="68" y1="20" x2="68" y2="80" stroke="#cbd5e1" stroke-width="2"/>
+  <!-- Digital Display Screen -->
+  <rect x="71" y="27" width="13" height="8" rx="2" fill="#dbeafe" stroke="#3b82f6"/>
+  <!-- Dial / Buttons -->
+  <circle cx="77" cy="46" r="4" fill="#f1f5f9" stroke="#1e3a5f" stroke-width="2"/>
+  <rect x="73" y="56" width="9" height="3" rx="1" fill="#94a3b8"/>
+  <rect x="73" y="62" width="9" height="3" rx="1" fill="#94a3b8"/>
+  <circle cx="77" cy="72" r="3" fill="#22c55e"/>
+  <!-- Door Handle -->
+  <rect x="61" y="36" width="3" height="28" rx="1.5" fill="#64748b"/>
+  <!-- Feet -->
+  <rect x="18" y="80" width="8" height="3" rx="1" fill="#64748b"/>
+  <rect x="74" y="80" width="8" height="3" rx="1" fill="#64748b"/>
+</svg>
